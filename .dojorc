@@ -1,0 +1,6 @@
+{
+	"build-app": {
+		"locale": "en",
+		"cldrPaths": ["cldr-data/supplemental/weekData"]
+	}
+}
